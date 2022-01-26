@@ -1,2 +1,3 @@
 Início login
+Validação de email de usuário
 Final login
